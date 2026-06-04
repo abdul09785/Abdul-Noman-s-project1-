@@ -1,2 +1,3 @@
 # Abdul-Noman-s-project1-
-my first project
+my first project. 
+author - Abdul Noman
